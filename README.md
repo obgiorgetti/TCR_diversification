@@ -25,9 +25,9 @@ with the exception of random placement of network nodes and scatterplot dots, wh
 
 The metadata (mainly FACS sort population percentages) is also available:
 
-"XP.th.xlsx" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file!
-"XP.th.xlsx.2" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file!
-"MM.xp.3a" # Counts tables with the sequences from sort experiments (TCR alpha edited mice)
-"MM.xp.3b" # Counts tables with the sequences from sort experiments (TCR beta edited mice)
-"TCR.a.spp.MM.CDR3.amino.acid.sequence" # WT TCR alpha sequences from B6 controls (From Giorgetti et al. 2023)
-"TCR.b.spp.MM.CDR3.amino.acid.sequence" # WT TCR beta sequences from B6 controls (From Giorgetti et al. 2023)
+"XP.th.xlsx" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file! __
+"XP.th.xlsx.2" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file! __
+"MM.xp.3a" # Counts tables with the sequences from sort experiments (TCR alpha edited mice) __
+"MM.xp.3b" # Counts tables with the sequences from sort experiments (TCR beta edited mice) __
+"TCR.a.spp.MM.CDR3.amino.acid.sequence" # WT TCR alpha sequences from B6 controls (From Giorgetti et al. 2023) __
+"TCR.b.spp.MM.CDR3.amino.acid.sequence" # WT TCR beta sequences from B6 controls (From Giorgetti et al. 2023) __
