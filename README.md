@@ -23,6 +23,9 @@ the data from the pertinent edited gene was analyzed. The table of the not-edite
 I provided examples of how to obtain the graph statistics for network plots in the code comments. The plots should match the published data, 
 with the exception of random placement of network nodes and scatterplot dots, which do not affect interpretation of the data.
 
+CDR3 counts and metadata
+========================
+
 The metadata (mainly FACS sort population percentages) is also available:
 
 "XP.th.xlsx" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file!  
