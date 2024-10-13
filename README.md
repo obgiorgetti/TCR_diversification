@@ -26,7 +26,7 @@ with the exception of random placement of network nodes and scatterplot dots, wh
 CDR3 counts and metadata
 ========================
 
-The metadata (mainly FACS sort population percentages) is also available:
+The metadata (mainly FACS sort population percentages) is available:
 
 "XP.th.xlsx" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file!  
 "XP.th.xlsx.2" # Metadata - Table with data from sorted mice Excel table with data from sorted mice - not an excel file!  
